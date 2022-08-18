@@ -714,11 +714,11 @@ br {
 
 @media only screen and (max-width: 361px) {
     .bg-mobile-top-1 img {
-        margin-bottom: 35vh;
+        padding-bottom: 35vh;
     }
     
     .bg-mobile-bottom-1 img {
-        margin-bottom: 30vh;
+        padding-bottom: 30vh;
     }
     
     .growing-img-wrapper {
