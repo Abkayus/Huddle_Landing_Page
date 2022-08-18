@@ -714,11 +714,11 @@ br {
 
 @media only screen and (max-width: 361px) {
     .bg-desktop-top-1 img {
-        padding-bottom: 25vh;
+        margin-bottom: 35vh;
     }
     
     .bg-desktop-bottom-1 img {
-        padding-bottom: 20vh;
+        margin-bottom: 30vh;
     }
     
     .growing-img-wrapper {
@@ -734,7 +734,7 @@ br {
     }
     
     .input-wrapper input {
-        padding: 8px 65px;
+        padding: 8px 64px;
     }
     
     .btn-wrapper2 {
