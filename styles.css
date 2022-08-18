@@ -457,7 +457,7 @@ br {
 
     .right-btn-wrapper {
         position: absolute;
-        margin-left: 240px;
+        margin-left: 230px;
     }
 
     .right-btn-wrapper a {
@@ -491,7 +491,7 @@ br {
     }
 
     .btn-wrapper {
-        margin-left: 0px;
+        margin-left: -30px;
     }
 
     .btn-wrapper a {
@@ -500,7 +500,7 @@ br {
     }
 
     .screen-mockups-wrapper img {
-        width: 58%;
+        width: 60%;
         margin-left: -90px;
     }
 
@@ -626,7 +626,7 @@ br {
     .bottom-btn-wrapper h3 {
         width: 45%;
         font-size: 1.55em;
-        margin-left: 35px;
+        margin-left: 40px;
     }
 
     .btn-wrapper1 {
@@ -649,7 +649,7 @@ br {
     .right-footer-wrapper {
         position: absolute;
         margin-top: -700px;
-        margin-left: 25px;
+        margin-left: 20px;
     }
 
     .right-footer-wrapper p {
@@ -663,7 +663,7 @@ br {
     }
 
     .input-wrapper input {
-        padding: 8px 60px;
+        padding: 8px 65px;
         margin-bottom: 5px;
     }
 
@@ -672,7 +672,7 @@ br {
     }
 
     .btn-wrapper2 a {
-        padding: 8px 30px;
+        padding: 8px 35px;
     }
 
     .left-footer-wrapper {
