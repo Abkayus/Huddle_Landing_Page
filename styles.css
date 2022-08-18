@@ -623,19 +623,15 @@ br {
         margin-left: -65px;
         text-align-last: center;
     }
-    
-    bottom-btn-wrapper {
-        margin-left: 20px;
-    }
-    
+   
     .bottom-btn-wrapper h3 {
         width: 45%;
         font-size: 1.55em;
-        margin-left: 35px;
+        margin-left: 45px;
     }
 
     .btn-wrapper1 {
-        margin-left: -260px;
+        margin-left: -250px;
     }
 
     .btn-wrapper1 a {
