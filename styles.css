@@ -401,6 +401,45 @@ br {
 }
 
 
+@media only screen and (max-width: 1440px) {
+   .nav-wrapper {
+        margin: 60px;
+    }
+    
+    .logo-wrapper img{
+        width: 100%;
+    }
+    
+    .right-btn-wrapper a{
+        font-size: 30px;
+        padding: 10px 30px;
+    } 
+    
+    .comment-btn-wrapper p{
+        padding: 30px 450px 60px 400px;
+    } 
+    
+    .growing-img-wrapper {
+        margin-top: -500px;
+        height: 58vh;
+    }
+    
+    .flow-text-wrapper p {
+        font-size: 1.2em;
+    }
+    
+    .users-img-wrapper {
+        margin-top: -550px;
+        height: 58vh;
+    }
+    
+    .attribution em{
+        margin-left: 750px;
+    }
+    
+}
+
+
 @media only screen and (max-width: 375px) {
     .nav-wrapper {
         margin: 30px 20px;
