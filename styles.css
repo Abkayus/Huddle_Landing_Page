@@ -38,7 +38,7 @@
 }
 
 .comment-btn-wrapper h1 {
-    font-size: 2.5em;
+    font-size: 2.55em;
     margin-left: -70px;
 }
 
@@ -55,7 +55,7 @@
 
 .btn-wrapper {
     margin-bottom: 100px;
-    padding-left: 100px;
+    padding-left: 50px;
 }
 
 .btn-wrapper a {
@@ -124,7 +124,7 @@
 .growing-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: -500px;
+    margin-top: -480px;
     height: 58vh;
     background-color: hsl(207, 100%, 98%);
 }
