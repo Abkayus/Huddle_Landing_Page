@@ -129,7 +129,7 @@
 .growing-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: -480px;
+    margin-top: -485px;
     height: 60vh;
     background-color: hsl(207, 100%, 98%);
 }
@@ -146,7 +146,7 @@
 }
 
 .grow-text-wrapper p {
-    width: 70%;
+    width: 75%;
     font-size: 1.25em;
     line-height: 1.5em;
 
@@ -182,7 +182,7 @@
 }
 
 .flow-text-wrapper p {
-    width: 70%;
+    width: 75%;
     font-size: 1.25em;
     line-height: 1.5em;
 }
