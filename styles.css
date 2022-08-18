@@ -733,7 +733,11 @@ br {
         margin-top: -820px;
     }
     
+    .input-wrapper input {
+        padding: 8px 65px;
+    }
+    
     .btn-wrapper2 {
-        margin-left: 135px;
+        margin-left: 125px;
     }
 }
