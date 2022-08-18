@@ -713,12 +713,12 @@ br {
 
 
 @media only screen and (max-width: 361px) {
-    .bg-desktop-top-2 img {
-        margin-bottom: -25vh;
+    .bg-mobile-top-1 img {
+        margin-bottom: 35vh;
     }
     
-    .bg-desktop-bottom-2 img {
-        margin-bottom: -20vh;
+    .bg-mobile-bottom-1 img {
+        margin-bottom: 30vh;
     }
     
     .growing-img-wrapper {
