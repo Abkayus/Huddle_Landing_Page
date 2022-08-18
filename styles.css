@@ -457,7 +457,7 @@ br {
 
     .right-btn-wrapper {
         position: absolute;
-        margin-left: 210px;
+        margin-left: 230px;
     }
 
     .right-btn-wrapper a {
@@ -540,7 +540,7 @@ br {
 
     .growing-img-wrapper {
         margin-top: -650px;
-        height: 110vh;
+        height: 115vh;
     }
 
     .grow-img-wrapper img {
