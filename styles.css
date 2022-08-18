@@ -68,7 +68,7 @@
     text-decoration: none;
     padding: 20px 100px;
     border-radius: 35px;
-    border-bottom: 10px grooove;
+    border-bottom: 10px hsl(207, 100%, 98%);
     background: hsl(322, 100%, 66%);
     color: #fff;
 }
@@ -248,7 +248,7 @@
     text-decoration: none;
     padding: 20px 100px;
     border-radius: 35px;
-    border-bottom: 10px grooove;
+    border-bottom: 10px hsl(207, 100%, 98%);
     background: hsl(322, 100%, 66%);
     color: #fff;
 }
@@ -447,7 +447,7 @@ br {
 
 @media only screen and (max-width: 375px) {
     .nav-wrapper {
-        margin: 30px 20px;
+        margin: 30px;
         width: 20%;
     }
 
@@ -457,7 +457,7 @@ br {
 
     .right-btn-wrapper {
         position: absolute;
-        margin-left: 230px;
+        margin-left: 240px;
     }
 
     .right-btn-wrapper a {
@@ -491,7 +491,7 @@ br {
     }
 
     .btn-wrapper {
-        margin-left: -100px;
+        margin-left: 0px;
     }
 
     .btn-wrapper a {
