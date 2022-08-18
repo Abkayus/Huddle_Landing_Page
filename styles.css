@@ -337,6 +337,10 @@
     background-color: #fff;
 }
 
+.right-footer-wrapper{
+    padding-left: 20px;
+}
+
 .right-footer-wrapper h4 {
     font-size: 1.5em;
     padding-bottom: 30px;
@@ -416,12 +420,12 @@ br {
     } 
     
     .comment-btn-wrapper p{
-        font-size: 18px;
+        font-size: 17px;
         padding: 30px 450px 60px 400px;
     } 
     
     .growing-img-wrapper {
-        margin-top: -560px;
+        margin-top: -575px;
         height: 58vh;
     }
     
@@ -430,12 +434,12 @@ br {
     }
     
     .users-img-wrapper {
-        margin-top: -560px;
+        margin-top: -570px;
         height: 58vh;
     }
     
     .attribution em{
-        margin-left: 750px;
+        margin-left: 700px;
     }
     
 }
