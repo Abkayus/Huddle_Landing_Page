@@ -38,7 +38,7 @@
 }
 
 .comment-btn-wrapper h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     margin-left: -70px;
 }
 
@@ -48,14 +48,14 @@
 
 .comment-btn-wrapper p {
     font-size: 20px;
-    padding: 30px 450px 60px 400px;
+    padding: 30px 400px 60px 350px;
     line-height: 1.5em;
     text-align-last: center;
 }
 
 .btn-wrapper {
     margin-bottom: 100px;
-    padding-left: 150px;
+    padding-left: 100px;
 }
 
 .btn-wrapper a {
@@ -194,7 +194,7 @@
 .users-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: -490px;
+    margin-top: -480px;
     height: 58vh;
     background-color: hsl(207, 100%, 98%);
 }
@@ -390,7 +390,7 @@ br {
 }
 
 .attribution em {
-    margin-left: 750px;
+    margin-left: 680px;
     font-style: normal;
 }
 
