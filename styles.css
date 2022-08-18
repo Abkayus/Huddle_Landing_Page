@@ -732,4 +732,8 @@ br {
         height: 70vh;
         margin-top: -820px;
     }
+    
+    .btn-wrapper2 {
+        margin-left: 135px;
+    }
 }
