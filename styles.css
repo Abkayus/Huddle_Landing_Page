@@ -500,7 +500,7 @@ br {
     }
 
     .screen-mockups-wrapper img {
-        width: 60%;
+        width: 65%;
         margin-left: -90px;
     }
 
@@ -663,7 +663,7 @@ br {
     }
 
     .input-wrapper input {
-        padding: 8px 65px;
+        padding: 8px 70px;
         margin-bottom: 5px;
     }
 
@@ -672,7 +672,7 @@ br {
     }
 
     .btn-wrapper2 a {
-        padding: 8px 35px;
+        padding: 8px 40px;
     }
 
     .left-footer-wrapper {
@@ -707,5 +707,18 @@ br {
     
     .attribution em {
         margin-left: 0px;
+    }
+}
+
+
+@media only screen and (max-width: 361px) {
+   .growing-img-wrapper {
+        margin-top: -600px;
+        height: 112vh;
+    }
+    
+     .users-img-wrapper {
+        height: 92vh;
+        margin-top: -550px;
     }
 }
