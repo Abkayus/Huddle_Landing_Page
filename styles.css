@@ -714,12 +714,12 @@ br {
 
 @media only screen and (max-width: 361px) {
    .growing-img-wrapper {
-        margin-top: -900px;
-        height: 112vh;
+        margin-top: -905px;
+        height: 115vh;
     }
     
      .users-img-wrapper {
-        height: 95vh;
-        margin-top: -800px;
+        height: 97vh;
+        margin-top: -820px;
     }
 }
