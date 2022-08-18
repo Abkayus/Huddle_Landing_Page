@@ -627,11 +627,11 @@ br {
     .bottom-btn-wrapper h3 {
         width: 45%;
         font-size: 1.55em;
-        margin-left: 45px;
+        margin-left: 50px;
     }
 
     .btn-wrapper1 {
-        margin-left: -250px;
+        margin-left: -245px;
     }
 
     .btn-wrapper1 a {
@@ -714,12 +714,12 @@ br {
 
 @media only screen and (max-width: 361px) {
    .growing-img-wrapper {
-        margin-top: -850px;
+        margin-top: -900px;
         height: 112vh;
     }
     
      .users-img-wrapper {
-        height: 92vh;
+        height: 95vh;
         margin-top: -800px;
     }
 }
