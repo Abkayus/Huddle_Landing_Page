@@ -536,6 +536,7 @@ br {
     }
 
     .bg-mobile-top-1 {
+        width: 100%;
         height: 130vh;
     }
 
@@ -594,6 +595,7 @@ br {
     }
 
     .bg-mobile-bottom-1 {
+        width: 100%;
         height: 110vh;
     }
 
@@ -714,11 +716,11 @@ br {
 
 @media only screen and (max-width: 361px) {
     .bg-mobile-top-1 img {
-        padding-bottom: 35vh;
+        height: 35vh;
     }
     
     .bg-mobile-bottom-1 img {
-        padding-bottom: 30vh;
+        height: 30vh;
     }
     
     .growing-img-wrapper {
