@@ -16,10 +16,14 @@
     justify-content: space-between;
 }
 
+.logo-wrapper img{
+    width: 80%;
+}
+
 .right-btn-wrapper a {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 600;
-    padding: 10px 30px;
+    padding: 10px 20px;
     border-radius: 25px;
     border: 1px groove hsl(321, 100%, 78%);
     color: hsl(321, 100%, 78%);
