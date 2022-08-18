@@ -147,7 +147,7 @@
 
 .grow-text-wrapper p {
     width: 75%;
-    font-size: 1em;
+    font-size: 1.2em;
     line-height: 1.5em;
 
 }
@@ -182,7 +182,7 @@
 }
 
 .flow-text-wrapper p {
-    width: 75%;
+    width: 80%;
     font-size: 1.2em;
     line-height: 1.5em;
 }
