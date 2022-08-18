@@ -540,6 +540,7 @@ br {
     }
 
     .growing-img-wrapper {
+        width: 61.7%;
         margin-top: -650px;
         height: 112vh;
     }
@@ -598,6 +599,7 @@ br {
     }
 
     .users-img-wrapper {
+        width: 61.7%;
         height: 92vh;
         margin-top: -600px;
     }
@@ -640,7 +642,7 @@ br {
     }
 
     .bottom-wrapper {
-        width: 61.5%;
+        width: 61.7%;
     }
 
     .left-right-wrapper {
@@ -673,7 +675,7 @@ br {
     }
 
     .btn-wrapper2 a {
-        padding: 8px 40px;
+        padding: 8px 45px;
     }
 
     .left-footer-wrapper {
