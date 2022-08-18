@@ -59,7 +59,7 @@
 
 .btn-wrapper {
     margin-bottom: 100px;
-    margin-left: -60px;
+    margin-left: -50px;
 }
 
 .btn-wrapper a {
@@ -130,7 +130,7 @@
     display: flex;
     position: absolute;
     margin-top: -480px;
-    height: 58vh;
+    height: 60vh;
     background-color: hsl(207, 100%, 98%);
 }
 
