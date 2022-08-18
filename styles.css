@@ -55,7 +55,7 @@
 
 .btn-wrapper {
     margin-bottom: 100px;
-    padding-left: 180px;
+    padding-left: 150px;
 }
 
 .btn-wrapper a {
@@ -194,7 +194,7 @@
 .users-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: -500px;
+    margin-top: -490px;
     height: 58vh;
     background-color: hsl(207, 100%, 98%);
 }
