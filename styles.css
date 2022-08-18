@@ -712,7 +712,7 @@ br {
     }
 }
 
-
+/*
 @media only screen and (max-width: 361px) {
     .bg-mobile-top-1 img {
         height: 35vh;
@@ -735,7 +735,7 @@ br {
     }
     
     .input-wrapper input {
-        padding: 8px 64px;
+        padding: 8px 63px;
     }
     
     .btn-wrapper2 {
