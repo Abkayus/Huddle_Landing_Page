@@ -8,7 +8,7 @@
 .container-wrapper {
     display: grid;
     grid-template-columns: 1fr;
-    overflow: none;
+    overflow: hidden;
 }
 
 .nav-wrapper {
