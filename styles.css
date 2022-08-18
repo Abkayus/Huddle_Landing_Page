@@ -11,7 +11,7 @@
 }
 
 .nav-wrapper {
-    margin: 60px;
+    margin: 50px;
     display: flex;
     justify-content: space-between;
 }
@@ -38,7 +38,7 @@
 }
 
 .comment-btn-wrapper h1 {
-    font-size: 2.55em;
+    font-size: 3em;
     margin-left: -70px;
 }
 
@@ -55,7 +55,7 @@
 
 .btn-wrapper {
     margin-bottom: 100px;
-    padding-left: 50px;
+    padding-left: 0px;
 }
 
 .btn-wrapper a {
