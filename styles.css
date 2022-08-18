@@ -59,7 +59,7 @@
 
 .btn-wrapper {
     margin-bottom: 100px;
-    padding-left: 0px;
+    padding-left: -20px;
 }
 
 .btn-wrapper a {
@@ -239,7 +239,7 @@
 
 .btn-wrapper1 {
     margin-bottom: 100px;
-    margin-left: -40px;
+    margin-left: -20px;
 }
 
 .btn-wrapper1 a {
