@@ -416,11 +416,12 @@ br {
     } 
     
     .comment-btn-wrapper p{
+        font-size: 18px;
         padding: 30px 450px 60px 400px;
     } 
     
     .growing-img-wrapper {
-        margin-top: -500px;
+        margin-top: -560px;
         height: 58vh;
     }
     
@@ -429,7 +430,7 @@ br {
     }
     
     .users-img-wrapper {
-        margin-top: -550px;
+        margin-top: -560px;
         height: 58vh;
     }
     
