@@ -622,11 +622,15 @@ br {
         margin-left: -65px;
         text-align-last: center;
     }
-
+    
+    bottom-btn-wrapper {
+        margin-left: 10px
+    }
+    
     .bottom-btn-wrapper h3 {
         width: 45%;
         font-size: 1.55em;
-        margin-left: 40px;
+        margin-left: 35px;
     }
 
     .btn-wrapper1 {
@@ -713,12 +717,12 @@ br {
 
 @media only screen and (max-width: 361px) {
    .growing-img-wrapper {
-        margin-top: -600px;
+        margin-top: -550px;
         height: 112vh;
     }
     
      .users-img-wrapper {
         height: 92vh;
-        margin-top: -550px;
+        margin-top: -500px;
     }
 }
