@@ -417,20 +417,17 @@ br {
     }
     
     .right-btn-wrapper a{
-        font-size: 30px;
-        padding: 10px 30px;
+        font-size: 25px;
+        padding: 10px 25px;
     } 
     
     .comment-btn-wrapper h1{
-        font-size: 3.2em;   
+        font-size: 3.2em;
+        margin-left: -40px;
     }
     .comment-btn-wrapper p{
         font-size: 18px;
         padding: 30px 450px 60px 380px;
-    }
-    
-    .screen-mockups-wrapper img{
-        width: 100%;   
     }
     
     .growing-img-wrapper {
