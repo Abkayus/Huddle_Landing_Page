@@ -422,7 +422,7 @@ br {
     } 
     
     .comment-btn-wrapper p{
-        font-size: 20px;
+        font-size: 18px;
         padding: 30px 450px 60px 400px;
     } 
     
@@ -432,6 +432,7 @@ br {
     }
     .grow-text-wrapper p{
         font-size: 1.25em;
+        width: 70%;
     }
     
     .flow-text-wrapper p {
