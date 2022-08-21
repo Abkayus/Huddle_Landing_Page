@@ -53,7 +53,7 @@
 
 .comment-btn-wrapper p {
     font-size: 18px;
-    width: 60%;
+    width: 45%;
     line-height: 1.5em;
     text-align-last: center;
 }
@@ -130,7 +130,7 @@
 .growing-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: -400px;
+    margin-top: -460px;
     height: 60vh;
     background-color: hsl(207, 100%, 98%);
 }
@@ -200,7 +200,7 @@
 .users-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: -400px;
+    margin-top: -460px;
     height: 60vh;
     background-color: hsl(207, 100%, 98%);
 }
