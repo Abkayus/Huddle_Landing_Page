@@ -488,7 +488,7 @@ br {
         font-size: 1.5em;
         width: 60%;
         margin-top: -50px;
-        padding-left: -120px;
+        margin-left: -80px;
     }
 
     .comment-btn-wrapper h1 em {
