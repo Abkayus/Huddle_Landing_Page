@@ -43,7 +43,7 @@
 }
 
 .comment-btn-wrapper h1 {
-    font-size: 2.5em;
+    font-size: 3em;
     margin-left: -60px;
 }
 
@@ -53,8 +53,7 @@
 
 .comment-btn-wrapper p {
     font-size: 18px;
-    width: 100%;
-    padding: 30px -50px;
+    width: 60%;
     line-height: 1.5em;
     text-align-last: center;
 }
@@ -131,7 +130,7 @@
 .growing-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: 100px;
+    margin-top: -400px;
     height: 60vh;
     background-color: hsl(207, 100%, 98%);
 }
@@ -148,7 +147,7 @@
 }
 
 .grow-text-wrapper p {
-    width: 75%;
+    width: 45%;
     font-size: 1.2em;
     line-height: 1.5em;
 
@@ -201,7 +200,7 @@
 .users-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: 100px;
+    margin-top: -400px;
     height: 60vh;
     background-color: hsl(207, 100%, 98%);
 }
