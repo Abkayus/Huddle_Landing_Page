@@ -427,7 +427,11 @@ br {
     .comment-btn-wrapper p{
         font-size: 18px;
         padding: 30px 450px 60px 380px;
-    } 
+    }
+    
+    .screen-mockups-wrapper img{
+        width: 110%;   
+    }
     
     .growing-img-wrapper {
         margin-top: -575px;
