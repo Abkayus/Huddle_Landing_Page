@@ -430,6 +430,9 @@ br {
         margin-top: -575px;
         height: 58vh;
     }
+    .grow-text-wrapper p{
+        font-size: 1.25em;
+    }
     
     .flow-text-wrapper p {
         font-size: 1.2em;
