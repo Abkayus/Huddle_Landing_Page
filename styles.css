@@ -481,13 +481,14 @@ br {
 
     .top-content-wrapper {
         text-align: left;
-        padding-left: 80px;
+        padding-left: 120px;
     }
 
     .comment-btn-wrapper h1 {
         font-size: 1.5em;
         width: 60%;
         margin-top: -50px;
+        margin-left: -60px;
     }
 
     .comment-btn-wrapper h1 em {
