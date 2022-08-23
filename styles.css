@@ -730,10 +730,10 @@ br {
 
 @media only screen and (max-width: 361px) {
     .logo-wrapper img {
-        width: 30%;
+        width: 35%;
     }
     .comment-btn-wrapper h1{
-        font-size: 1.55em;
+        font-size: 2em;
          width: 35%;
         margin-left: -70px;
     }
@@ -746,11 +746,11 @@ br {
     }
     
     .screen-mockups-wrapper img{ 
-        width: 45%
+        width: 35%
     }
     
     .bg-mobile-top-1 img {
-        height: 50vh;
+        height: 70vh;
     }
     
     .bg-mobile-bottom-1 img {
