@@ -740,10 +740,11 @@ br {
     .comment-btn-wrapper p{
         font-size: 16px;
         width: 45%;
+        margin-left: -90px;
     }
     
     .screen-mockups-wrapper img{ 
-        width: 40%;
+        width: ;
     }
     
     .bg-mobile-top-1 img {
@@ -769,11 +770,11 @@ br {
     .bottom-btn-wrapper h3 {
         width: 40%;
         font-size: 1.55em;
-        margin-left: 0px;
+        margin-left: -70px;
     }
 
     .btn-wrapper1 {
-        margin-left: -145px;
+        margin-left: -300px;
     }
 
     .btn-wrapper1 a {
