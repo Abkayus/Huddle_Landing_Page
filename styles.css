@@ -729,4 +729,34 @@ br {
 
 
 
+@media only screen and (max-width: 361px) {
+    .comment-btn-wrapper p {
+        padding-right: 20px;
+    }
+
+    .bg-mobile-top-1 {
+        height: 80vh;
+    }
+
+    .growing-img-wrapper {
+        margin-top: -550px;
+        height: 90vh;
+    }
+
+    .bg-mobile-bottom-1 {
+        height: 60vh;
+    }
+
+    .users-img-wrapper {
+        height: 70vh;
+        margin-top: -620px;
+    }
+
+    .input-wrapper input {
+        padding: 8px 60px;
+    }
+}
+
+
+
 
