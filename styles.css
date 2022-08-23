@@ -750,8 +750,7 @@ br {
     }
     
     .flow-text-wrapper p {
-        width: 60%;
-        padding-right: 0px;
+        padding-right: 5px;
     }
 
     .bg-mobile-bottom-1 {
