@@ -743,7 +743,7 @@ br {
     }
     
     .screen-mockups-wrapper img{ 
-        width: 30%
+        width: 40%;
     }
     
     .bg-mobile-top-1 img {
@@ -764,6 +764,25 @@ br {
         width: 100%;
         height: 70vh;
         margin-top: -720px;
+    }
+    
+    .bottom-btn-wrapper h3 {
+        width: 40%;
+        font-size: 1.55em;
+        margin-left: 0px;
+    }
+
+    .btn-wrapper1 {
+        margin-left: -145px;
+    }
+
+    .btn-wrapper1 a {
+        font-size: 15px;
+        padding: 10px 25px;
+    }
+
+    .bottom-wrapper {
+        width: 61.7%;
     }
     
     .input-wrapper input {
