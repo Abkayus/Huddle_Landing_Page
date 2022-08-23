@@ -727,6 +727,27 @@ br {
     }
 }
 
+
+@media only screen and (max-width: 361px) {
+   .comment-btn-wrapper p{
+        margin-left: -85px;
+    }
+    
+    .growing-img-wrapper {
+        margin-top: -650px;
+        height: 90vh;
+    }
+    
+    .users-img-wrapper {
+        height: 70vh;
+        margin-top: -620px;
+    }
+    
+    .input-wrapper input {
+        padding: 8px 60px;
+    }
+}
+
 /*
 @media only screen and (max-width: 361px) {
     .logo-wrapper img {
