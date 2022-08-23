@@ -731,11 +731,11 @@ br {
 
 @media only screen and (max-width: 361px) {
     .comment-btn-wrapper p {
-        padding-right: 400px;
+        padding-right: 450px;
     }
 
     .bg-mobile-top-1 {
-        height: 90vh;
+        height: 95vh;
     }
 
     .growing-img-wrapper {
@@ -744,7 +744,7 @@ br {
     }
 
     .bg-mobile-bottom-1 {
-        height: 78vh;
+        height: 80vh;
     }
 
     .users-img-wrapper {
