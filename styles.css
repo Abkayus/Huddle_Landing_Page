@@ -501,7 +501,7 @@ br {
         padding-left: 0px;
         margin-left: -80px;
         width: 150%;
-        text-indent: 30px;
+        text-indent: 25px;
         text-align: left;
         text-align-last: left;
     }
@@ -731,20 +731,20 @@ br {
 
 @media only screen and (max-width: 361px) {
     .comment-btn-wrapper p {
-        padding-right: 20px;
+        padding-right: 200px;
     }
 
     .bg-mobile-top-1 {
-        height: 80vh;
+        height: 90vh;
     }
 
     .growing-img-wrapper {
         margin-top: -550px;
-        height: 90vh;
+        height: 85vh;
     }
 
     .bg-mobile-bottom-1 {
-        height: 60vh;
+        height: 75vh;
     }
 
     .users-img-wrapper {
