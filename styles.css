@@ -744,6 +744,16 @@ br {
         margin-top: -650px;
         height: 85vh;
     }
+    
+     .grow-text-wrapper p {
+        width: 160%;
+    }
+    
+    .flow-text-wrapper p {
+        width: 60%;
+        padding-right: 0px;
+    }
+
 
     .bg-mobile-bottom-1 {
         height: 80vh;
@@ -753,6 +763,10 @@ br {
         height: 70vh;
         margin-top: -620px;
     }
+    
+    .user-text-wrapper p {
+        width: 220%;
+    } 
 
     .input-wrapper input {
         padding: 8px 60px;
