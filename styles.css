@@ -730,11 +730,12 @@ br {
 @media only screen and (max-width: 361px) {
      .comment-btn-wrapper h1{
         font-size: 2.5em;
-        margin-left: -40px;
+         width: 100%;
+        margin-left: -70px;
     }
     .comment-btn-wrapper p{
         font-size: 16px;
-        padding-left: 0px;
+        padding-left: -10px;
     }
     
      .btn-wrapper {
@@ -742,11 +743,11 @@ br {
     }
     
     .screen-mockups-wrapper img{ 
-        width: 50%
+        width: 65%
     }
     
     .bg-mobile-top-1 img {
-        height: 20vh;
+        height: 50vh;
     }
     
     .bg-mobile-bottom-1 img {
@@ -770,6 +771,6 @@ br {
     }
     
     .btn-wrapper2 {
-        margin-left: 125px;
+        margin-left: 124px;
     }
 }
