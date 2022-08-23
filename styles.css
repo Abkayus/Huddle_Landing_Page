@@ -728,7 +728,10 @@ br {
 
 
 @media only screen and (max-width: 361px) {
-     .comment-btn-wrapper h1{
+    .logo-wrapper img {
+        width: 30%;
+    }
+    .comment-btn-wrapper h1{
         font-size: 2em;
          width: 35%;
         margin-left: -50px;
