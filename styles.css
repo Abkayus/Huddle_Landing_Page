@@ -71,7 +71,7 @@
     border-radius: 35px;
     border-top: 1px solid;
     border-right: 2px solid hsl(207, 100%, 98%);
-    border-bottom: 5px groove hsl(207, 100%, 98%);
+    border-bottom: 8px solid hsl(207, 100%, 98%);
     border-left: 3px groove hsl(207, 100%, 98%);
     background: hsl(322, 100%, 66%);
     color: #fff;
@@ -254,9 +254,8 @@
     border-radius: 35px;
     border-top: 1px solid;
     border-right: 2px solid hsl(207, 100%, 98%);
-    border-bottom: 5px groove hsl(207, 100%, 98%);
     border-left: 3px groove hsl(207, 100%, 98%);
-    border-bottom: 10px solid hsl(207, 100%, 98%);
+    border-bottom: 8px solid hsl(207, 100%, 98%);
     background: hsl(322, 100%, 66%);
     color: #fff;
 }
