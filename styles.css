@@ -729,9 +729,9 @@ br {
 
 @media only screen and (max-width: 361px) {
      .comment-btn-wrapper h1{
-        font-size: 2.5em;
-         width: 50%;
-        margin-left: -70px;
+        font-size: 2em;
+         width: 40%;
+        margin-left: -60px;
     }
     .comment-btn-wrapper p{
         font-size: 16px;
@@ -743,7 +743,7 @@ br {
     }
     
     .screen-mockups-wrapper img{ 
-        width: 65%
+        width: 60%
     }
     
     .bg-mobile-top-1 img {
