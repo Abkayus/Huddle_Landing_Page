@@ -737,7 +737,7 @@ br {
     }
 
     .bg-mobile-top-1 {
-        height: 95vh;
+        height: 100vh;
     }
 
     .growing-img-wrapper {
@@ -754,9 +754,8 @@ br {
         padding-right: 0px;
     }
 
-
     .bg-mobile-bottom-1 {
-        height: 80vh;
+        height: 85vh;
     }
 
     .users-img-wrapper {
