@@ -740,11 +740,11 @@ br {
     .comment-btn-wrapper p{
         font-size: 16px;
         width: 45%;
-        margin-left: -90px;
+        margin-left: -85px;
     }
     
     .screen-mockups-wrapper img{ 
-        width: ;
+        width: 30%;
     }
     
     .bg-mobile-top-1 img {
@@ -756,7 +756,7 @@ br {
     }
     
     .growing-img-wrapper {
-        margin-top: -850px;
+        margin-top: -650px;
         width: 100%;
         height: 90vh;
     }
@@ -768,13 +768,13 @@ br {
     }
     
     .bottom-btn-wrapper h3 {
-        width: 40%;
+        width: 30%;
         font-size: 1.55em;
-        margin-left: -70px;
+        margin-left: -80px;
     }
 
     .btn-wrapper1 {
-        margin-left: -300px;
+        margin-left: -500px;
     }
 
     .btn-wrapper1 a {
