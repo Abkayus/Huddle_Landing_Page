@@ -730,11 +730,12 @@ br {
 
 @media only screen and (max-width: 361px) {
    .comment-btn-wrapper p{
+       font-size: 15px;
         width: 140%;
     }
     
      .bg-mobile-top-1 {
-        height: 150vh;
+        height: 170vh;
     }
     
     .growing-img-wrapper {
@@ -743,7 +744,7 @@ br {
     }
     
     .bg-mobile-bottom-1 {
-        height: 120vh;
+        height: 140vh;
     }
     
     .users-img-wrapper {
