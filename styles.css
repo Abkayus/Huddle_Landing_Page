@@ -18,13 +18,13 @@
 }
 
 .logo-wrapper img{
-    width: 80%;
+    width: 60%;
 }
 
 .right-btn-wrapper a {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
-    padding: 10px 25px;
+    padding: 10px 20px;
     border-radius: 25px;
     border: 1px groove hsl(321, 100%, 78%);
     color: hsl(321, 100%, 78%);
@@ -43,7 +43,7 @@
 }
 
 .comment-btn-wrapper h1 {
-    font-size: 2.5em;
+    font-size: 3em;
     margin-left: -60px;
 }
 
@@ -53,7 +53,7 @@
 
 .comment-btn-wrapper p {
     font-size: 20px;
-    padding: 30px 400px 60px 360px;
+    padding: 30px 380px 60px 320px;
     line-height: 1.5em;
     text-align-last: center;
 }
@@ -133,7 +133,7 @@
 .growing-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: -500px;
+    margin-top: -400px;
     height: 60vh;
     background-color: hsl(207, 100%, 98%);
 }
@@ -151,7 +151,7 @@
 
 .grow-text-wrapper p {
     width: 75%;
-    font-size: 1.2em;
+    font-size: 16px;
     line-height: 1.5em;
 
 }
@@ -187,7 +187,7 @@
 
 .flow-text-wrapper p {
     width: 95%;
-    font-size: 1.1em;
+    font-size: 16px;
     line-height: 1.5em;
 }
 
@@ -203,7 +203,7 @@
 .users-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: -500px;
+    margin-top: -400px;
     height: 60vh;
     background-color: hsl(207, 100%, 98%);
 }
@@ -221,7 +221,7 @@
 
 .user-text-wrapper p {
     width: 75%;
-    font-size: 1.25em;
+    font-size: 16px;
     line-height: 1.5em;
 }
 
@@ -407,7 +407,7 @@ br {
 }
 
 .attribution em {
-    margin-left: 620px;
+    margin-left: 550px;
     font-style: normal;
 }
 
