@@ -730,23 +730,20 @@ br {
 
 @media only screen and (max-width: 361px) {
     .logo-wrapper img {
-        width: 35%;
+        width: 40%;
     }
     .comment-btn-wrapper h1{
-        font-size: 2em;
-         width: 35%;
+        font-size: 1.8em;
+         width: 25%;
         margin-left: -70px;
     }
     .comment-btn-wrapper p{
         font-size: 16px;
-    }
-    
-     .btn-wrapper {
-        margin-left:;
+        width: 50%;
     }
     
     .screen-mockups-wrapper img{ 
-        width: 35%
+        width: 30%
     }
     
     .bg-mobile-top-1 img {
@@ -758,7 +755,7 @@ br {
     }
     
     .growing-img-wrapper {
-        margin-top: -805px;
+        margin-top: -850px;
         width: 100%;
         height: 90vh;
     }
