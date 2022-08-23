@@ -69,6 +69,7 @@
     text-decoration: none;
     padding: 20px 100px;
     border-radius: 35px;
+    border-left: 5px solid hsl(207, 100%, 98%);
     border-bottom: 10px solid hsl(207, 100%, 98%);
     background: hsl(322, 100%, 66%);
     color: #fff;
