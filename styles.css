@@ -69,7 +69,7 @@
     text-decoration: none;
     padding: 20px 100px;
     border-radius: 35px;
-    border-bottom: 10px hsl(207, 100%, 98%);
+    border-bottom: 10px solid hsl(207, 100%, 98%);
     background: hsl(322, 100%, 66%);
     color: #fff;
 }
@@ -249,7 +249,7 @@
     text-decoration: none;
     padding: 20px 100px;
     border-radius: 35px;
-    border-bottom: 10px hsl(207, 100%, 98%);
+    border-bottom: 10px solid hsl(207, 100%, 98%);
     background: hsl(322, 100%, 66%);
     color: #fff;
 }
@@ -728,12 +728,29 @@ br {
 
 
 @media only screen and (max-width: 361px) {
+     .comment-btn-wrapper h1{
+        font-size: 2.5em;
+        margin-left: 0px;
+    }
+    .comment-btn-wrapper p{
+        font-size: 16px;
+        padding: 30px 410px 60px 420px;
+    }
+    
+     .btn-wrapper {
+        margin-left:;
+    }
+    
+    .screen-mockups-wrapper img{ 
+        width: 80%
+    }
+    
     .bg-mobile-top-1 img {
-        height: 35vh;
+        height: 30vh;
     }
     
     .bg-mobile-bottom-1 img {
-        height: 30vh;
+        height: 25vh;
     }
     
     .growing-img-wrapper {
