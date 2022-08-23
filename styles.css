@@ -730,7 +730,7 @@ br {
 
 @media only screen and (max-width: 361px) {
    .comment-btn-wrapper p{
-        margin-left: -85px;
+        width: 140%;
     }
     
      .bg-mobile-top-1 {
