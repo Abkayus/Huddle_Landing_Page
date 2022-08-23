@@ -733,9 +733,17 @@ br {
         margin-left: -85px;
     }
     
+     .bg-mobile-top-1 {
+        height: 150vh;
+    }
+    
     .growing-img-wrapper {
         margin-top: -750px;
         height: 90vh;
+    }
+    
+    .bg-mobile-bottom-1 {
+        height: 120vh;
     }
     
     .users-img-wrapper {
