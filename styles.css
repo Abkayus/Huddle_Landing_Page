@@ -68,8 +68,8 @@
     font-weight: 600;
     text-decoration: none;
     padding: 20px 100px;
-    border-radius: 15px;
-    border-bottom: 10px solid #fff;
+    border-radius: 35px;
+    border-top: 10px solid #fff;
     border-right: 3px solid hsl(207, 100%, 98%);
     border-bottom: 10px solid hsl(207, 100%, 98%);
     border-left: 5px solid hsl(207, 100%, 98%);
@@ -737,11 +737,11 @@ br {
     }
 
     .bg-mobile-top-1 {
-        height: 100vh;
+        height: 98vh;
     }
 
     .growing-img-wrapper {
-        margin-top: -710px;
+        margin-top: -680px;
         height: 85vh;
     }
     
