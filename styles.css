@@ -43,7 +43,7 @@
 }
 
 .comment-btn-wrapper h1 {
-    font-size: 2.8em;
+    font-size: 2.5em;
     margin-left: -60px;
 }
 
@@ -133,7 +133,7 @@
 .growing-img-wrapper {
     display: flex;
     position: absolute;
-    margin-top: -400px;
+    margin-top: -380px;
     height: 60vh;
     background-color: hsl(207, 100%, 98%);
 }
